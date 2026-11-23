@@ -143,3 +143,7 @@ Checked in the Claude desktop app in November 2026.
 - The sidebar nests a chat under the chat that started it, and it cannot be moved under another later.
 - Chats share no memory. What must last goes into files.
 - Many chats use many tokens. For a small project, one chat is cheaper and enough.
+
+## Licence
+
+MIT, see [LICENSE](LICENSE).
